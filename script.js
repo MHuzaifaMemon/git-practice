@@ -15,3 +15,7 @@ function above50(){
 function isabove60(){
     console.log("above 60")
 }
+
+function addingfeatureb(){
+    console.log("feature b")
+}
