@@ -11,3 +11,7 @@ function above50(){
     console.log("above 50")
 
 }
+
+function isabove60(){
+    console.log("above 60")
+}
