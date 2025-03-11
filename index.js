@@ -5,3 +5,7 @@ const city="New York";
 function syaname(){
     console.log("My name is"+name)
 }
+
+function sayage(){
+    console.log("My age is"+age)
+}
