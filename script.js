@@ -22,3 +22,4 @@ function addingfeatureb(){
 
 console.log("feature c")
 console.log("feature c2")
+console.log("feature c3")
